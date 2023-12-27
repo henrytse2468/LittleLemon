@@ -13,3 +13,5 @@ you can test below api:
 
 as it is using mysql server, 
 you have to create a user to login, as well as the menu item
+
+you can directly git clone from here: https://github.com/henrytse2468/LittleLemon.git
